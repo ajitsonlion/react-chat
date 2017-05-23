@@ -1,0 +1,5 @@
+npm-*
+dist
+.vscode
+node_modules
+.idea
